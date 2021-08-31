@@ -1,4 +1,4 @@
-I am looking for **summer 2022 internship** as machine learning engineer, software development engineer or data scientist, etc.
+I am looking for **summer 2022 internship** as machine learning engineer, software development engineer, or data scientist, etc.
 
 During my research on quantum chemical theory and software, I have developed a skill set including quantum mechanics, machine learning and programming.
 
