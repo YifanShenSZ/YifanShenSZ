@@ -1,10 +1,15 @@
 # Howdy, I'm Yifan Shen
 
-I was a software engineer machine learning intern at Meta Platforms Inc. during summber 2022. I worked on PyTorch nested tensor operation support, see [nested tensor tutorial](https://pytorch.org/tutorials/prototype/nestedtensor)
+👨‍💻 I am one of the [Core ML Tools](https://github.com/apple/coremltools) developers starting from 2023. 
 
-I am a quantum chemistry Ph. D. candidate at Johns Hopkins University. I obtained my B. S. in chemistry and physics minor from Zhejiang University.
+👨‍💻 I was a PyTorch intern in summber 2022, worked on [nested tensor](https://pytorch.org/tutorials/prototype/nestedtensor)
 
-I am actively searching for a machine learning engineer or software engineer role. Any start time after November 2022 will work for me.
+👨‍🎓 I was a quantum chemistry Ph. D. until fall 2022, worked on empowering quantum chemistry with machine learning.
+
+🔭 Looking forward to make the world more computable:
+* For large models that can only live on cloud currently, let's compress them and deploy to edge devices!
+* For humongous challenges posted by nature and physical laws, that can't even live on cloud, let's develop some more efficient algorithms!
+
 
 ---
 
