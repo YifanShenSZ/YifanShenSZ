@@ -1,6 +1,6 @@
 # Howdy, I'm Yifan Shen
 
-👨‍💻 I am one of the [Core ML Tools](https://github.com/apple/coremltools) developers starting from 2023
+👨‍💻 I am a [Core ML Tools](https://github.com/apple/coremltools) developer starting from 2023. One sample of my work here is [Core ML on-device Llama](https://machinelearning.apple.com/research/core-ml-on-device-llama)
 
 👨‍💻 I was a [PyTorch](https://github.com/pytorch/pytorch) intern in summber 2022, worked on [nested tensor](https://pytorch.org/tutorials/prototype/nestedtensor)
 
